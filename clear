@@ -1,0 +1,30 @@
+[33mcommit f766f92a66d15fe6bdb20438e8f089e162ecff58[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mMidtermAct1[m[33m, [m[1;31morigin/MidtermAct1[m[33m)[m
+Author: pahamutangdaven <pahamutangdaven@gmail.com>
+Date:   Thu Aug 14 11:03:02 2025 +0800
+
+    Messenger App
+
+[33mcommit 3d309578281640dd396a462e7801435c84017065[m
+Merge: 7098861 5db8665
+Author: pahamutangdaven <pahamutangdaven@gmail.com>
+Date:   Sat Sep 20 08:17:18 2025 +0800
+
+    "Messenger"
+
+[33mcommit 7098861b0e61f3bced8926610f4bb9926565d1bb[m
+Author: pahamutangdaven <pahamutangdaven@gmail.com>
+Date:   Thu Aug 14 11:03:02 2025 +0800
+
+    Color Changer App
+
+[33mcommit 5db86652ac0bfbdf2ac06d8b50552d2c69ad93f8[m[33m ([m[1;31morigin/master[m[33m, [m[1;32mmaster[m[33m)[m
+Author: pahamutangdaven <pahamutangdaven@gmail.com>
+Date:   Thu Aug 14 11:03:02 2025 +0800
+
+    Color Chaner App
+
+[33mcommit e8d6dde23e764c9ee48f2c180154f9e8fb687b88[m
+Author: pahamutangdaven <pahamutangdaven@gmail.com>
+Date:   Thu Aug 14 10:54:27 2025 +0800
+
+    Counter App
