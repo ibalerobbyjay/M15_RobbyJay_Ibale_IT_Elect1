@@ -16,24 +16,8 @@ export default function App() {
 }
 
 
-=======
-import Comment from './Comment';
-import ChatScreen from './ChatScreen';
-import React from "react";
-
-
-export default function App() {
-  return ( <>
-<ChatScreen />
-<Comment />
-
-</>
-)
-}
 
 
 
 
 
-
->>>>>>> b053f51 (Color Changer App)
