@@ -1,26 +1,20 @@
-import Comment from './Comment';
-import ChatScreen from './ChatScreen';
 import React from "react";
-import {
-  SafeAreaView,
-  View,
-  FlatList,
-  TextInput,
-  TouchableOpacity,
-  Text, 
-  KeyboardAvoidingView,
-  Image,
-} from "react-native";
-
+import { KeyboardAvoidingView, Platform } from "react-native";
+import ChatScreen from "./ChatScreen";
+import Comment from "./Comment";
 
 export default function App() {
-  return ( <KeyboardAvoidingView>
-<ChatScreen />
-<Comment />
-
-</KeyboardAvoidingView>
-)
+  return (
+    <KeyboardAvoidingView
+      style={{ flex: 1 }}
+      behavior={Platform.OS === "ios" ? "padding" : "height"}
+    >
+      <ChatScreen />
+      <Comment />
+    </KeyboardAvoidingView>
+  );
 }
+
 
 
 
