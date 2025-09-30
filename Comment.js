@@ -1,5 +1,5 @@
 import React, { useState } from "react";
-import { View, Text, FlatList, TextInput, TouchableOpacity, StyleSheet } from "react-native";
+import { View, Text, FlatList, TextInput, TouchableOpacity, StyleSheet ,} from "react-native";
 
 export default function CommentSection() {
   const [comments, setComments] = useState([

@@ -5,7 +5,7 @@ import {
   FlatList,
   TextInput,
   TouchableOpacity,
-  Text,
+  Text, 
 } from "react-native";
 import ChatBubble from "./ChatBubble";
 
